@@ -3,5 +3,5 @@
   tasks:
     - name: Pull logicaldevil/calculator
       docker_image:
-        name: logicaldevil/calculator
+        name: logicaldevil/calculator:latest
         source: pull
