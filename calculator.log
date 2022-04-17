@@ -1,0 +1,10 @@
+
+2022-04-18T02:46:56,574 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 3.0
+2022-04-18T02:46:56,578 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.0
+2022-04-18T02:47:04,910 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 3.0, 0.0
+2022-04-18T02:47:04,911 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T02:47:04,911 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+2022-04-18T02:47:18,947 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 512.0
+2022-04-18T02:47:23,602 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+2022-04-18T02:47:23,603 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+2022-04-18T02:47:23,603 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
